@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+{% assign base = site.baseurl %}
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+	<meta charset="utf-8" />
+
+	<!-- Set the viewport width to device width for mobile -->
+	<meta name="viewport" content="width=device-width" />
+	<title>{{ page.title }}</title>
+
+	<!-- Included CSS Files (Uncompressed) -->
+	<!--
+	<link rel="stylesheet" href="stylesheets/foundation.css">
+	-->
+
+	<!-- Included CSS Files (Compressed) -->
+	<link rel="stylesheet" href="{{base}}/foundation/stylesheets/foundation.min.css">
+	<link rel="stylesheet" href="{{base}}/foundation/stylesheets/app.css">
+	<link rel="stylesheet" href="{{base}}/foundation/stylesheets/social_foundicons.css">
+	<link rel="stylesheet" href="{{base}}/foundation/custom.css">
+
+	<script src="{{base}}/foundation/javascripts/modernizr.foundation.js"></script>
+
+	<!-- IE Fix for HTML5 Tags -->
+	<!--[if lt IE 9]>
+	<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+</head>
+<body>
+<div id="ipi-link" style="padding-top:20px">
+	<div class="row" >
+		<div class="twelve columns">
+			<a href="http://ipi.ie" >&larr; Back to IPI.ie</a>
+			{% include social.html %}
+		</div>
+	</div>
+</div>
+<div id="wrapper" style="background-image:url({{base}}/img/bg.png);">
+
+		<div class="row">
+			<div class="twelve columns">
+				<img src="{{base}}/img/Main_Promo.png" />
+
+				<!-- <h2>IPI Autumn Planning Conference 2012</h2>
+				<p>5<sup>th</sup> October 2012 <strong>Gibson Hotel, Dublin</strong> register now.</p>
+				<hr />--> 
+			</div>
+		</div>
+		
+		
+			<div id="footer">
+				<div class="row">
+					<div class="eight columns">
+						<p>&copy;2012 Irish Planning Institute <br />
+							Site deisgned by <a>Colin Broderick</a>. Powered by Jekyll &amp; Github Pages</p>
+						</div>
+					<div class="four columns">
+						<p class="social">
+							{% include social.html %}
+							</p>
+					</div>
+				</div>
+			</div>
+		
+				<!-- Included JS Files (Compressed) -->
+				<script src="{{base}}/foundation/javascripts/foundation.min.js"></script>
+
+				<!-- Initialize JS Plugins -->
+				<script src="{{base}}/foundation/javascripts/app.js"></script>
+			</body>
+			</html>

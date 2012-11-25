@@ -7,9 +7,11 @@
   font-weight:bold;
 }
 #footer {
-	  background: #ebebeb 0 100% ;
-	  margin-top: 50px;
+	  background: #b01220 0 100% ;
+	  margin-top: 20px;
 	  padding: 20px 0 45px;
+	  min-height:180px;
+	  color:#fff;
 }
 
 .title {
