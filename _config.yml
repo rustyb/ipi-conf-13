@@ -3,8 +3,6 @@ server: true
 exclude:
   - README.md
   - sample-post
-#markdown: rdiscount
-#rdiscount:
- # extensions: [smart]
 permalink: pretty
-#baseurl: /ipi-conf-2012
+baseurl: http://rustyb.github.com/ipi-conf-13/
+url: http://rustyb.github.com/ipi-conf-13/
