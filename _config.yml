@@ -4,5 +4,5 @@ exclude:
   - README.md
   - sample-post
 permalink: pretty
-baseurl: http://rustyb.github.com/ipi-conf-13/
-url: http://rustyb.github.com/ipi-conf-13/
+baseurl: http://rustyb.github.com/ipi-conf-13
+url: http://rustyb.github.com/ipi-conf-13
