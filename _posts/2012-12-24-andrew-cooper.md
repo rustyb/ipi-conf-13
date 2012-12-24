@@ -4,8 +4,9 @@ title: Prof. Andrew Cooper
 categories: 
     - speaker
 thumbnail: /img
-position: Chairman Northern Ireland Coastal & Marine Forum and Centre for Coastal &amp; Marine Research University of Ulster
+position: Chairman Northern Ireland Coastal & Marine Forum and Centre for Coastal and Marine Research University of Ulster
 bio: A Professor of Coastal Studies at the University of Ulster in Northern Ireland, Andrew established the Centre for Coastal and Marine Research and the Centre for Maritime Archaeology. 
+published: false
 ---
 
 ## {{page.title}}
