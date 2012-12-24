@@ -2,6 +2,7 @@
 layout: default
 title: Accomodation
 permalink: /pages/accomodation
+published: false
 ---
 
 ## Accomodation
@@ -12,4 +13,4 @@ Following an IPI visit to a number of hotels in the city, a dedicated web link h
 
 Accommodation is available online through this link until the 28th March 2013 at the negotiated preferential conference rates.
 
-<a class="button" href="https://resweb.passkey.com/Resweb.do?mode=welcome_ei_new&eventID=10341832&utm_source=9279435&utm_medium=email&utm_campaign=20617829">Book a Room<a>
+<a class="button" href="https://resweb.passkey.com/Resweb.do?mode=welcome_ei_new&eventID=10341832&utm_source=9279435&utm_medium=email&utm_campaign=20617829">Book a Room</a>
