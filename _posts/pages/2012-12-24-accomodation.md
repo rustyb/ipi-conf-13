@@ -2,7 +2,7 @@
 layout: default
 title: Accomodation
 permalink: /pages/accomodation
-published: false
+published: true
 ---
 
 ## Accomodation
