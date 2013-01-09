@@ -39,8 +39,9 @@
 		<div class="twelve columns">
 			<div class="navbar1 hide-for-small">
 				<a href="{{base}}/" class="home">Home</a>
-				{% assign home_nav = site.pages %}
-				{% assign nav = 'home' %}
+				
+				{% assign home_nav = site.posts %}
+				{% assign group = 'navigation' %}
 				{% include home_nav %}
 				
 				<!--

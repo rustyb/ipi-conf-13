@@ -1,14 +1,14 @@
 {% for node in home_nav %}
     {% if node.title != null %}
-      {% if nav == null or nav == node.nav %}
+      {% if group == null or group == node.group %}
       	{% if page.url == node.url %}
-      	<li class="active"><a href="{{base}}{{node.url}}" class="active">{{node.title}}</a></li>
+      		<a class="active" href="{{base}}{{node.url}}" class="active">{{node.title}}</a>
       	{% else %}
-      	<li><a href="{{ base }}{{node.url}}">{{node.title}}</a></li>
+      		<a href="{{ base }}{{node.url}}">{{node.title}}</a>
       	{% endif %}
       {% endif %}
     {% endif %}
   {% endfor %}
 
 {% assign home_nav = nil %}
-{% assign nav = nil %}
+{% assign group = nil %}

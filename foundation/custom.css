@@ -1,5 +1,6 @@
 #SiteWrapper {background:repeat-x center top url('../img/map-bkgnd.png');}
 body {background: repeat center top url('../img/site-bkgnd.png');}
+
 .speakers {
   list-style:none;
 }
@@ -64,7 +65,7 @@ body {background: repeat center top url('../img/site-bkgnd.png');}
 #nav-link {background:#0F2823;color:#FFF4C6;}
 #nav-link a {color:#FFF4C6;}
 #nav-link a:hover{color:#FFF;text-decoration:underline}
-
+#nav-link a.active {color:#FFF;font-weight:bold;}
 #nav-link  a.home {
 display: block;
 float: left;
