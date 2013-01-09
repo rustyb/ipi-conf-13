@@ -2,6 +2,7 @@
 layout: new
 title: IPI Conference Programme
 permalink: /pages/programme
+group: navigation
 ---
 
 ## IPI Conference Programme

@@ -3,6 +3,7 @@ layout: new
 title: Accomodation
 permalink: /pages/accomodation
 published: true
+group: navigation
 ---
 
 ## Accomodation
