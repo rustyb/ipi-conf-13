@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Professor Andreas Faludi
+permalink: /speakers/andreas-faludi
 categories: 
     - speaker
 thumbnail: /img

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Peter McNaney
+permalink: /speakers/peter-mcnaney
 categories: 
     - speaker
 thumbnail: /img

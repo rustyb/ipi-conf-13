@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: new
 title: IPI Conference Programme
 permalink: /pages/programme
 ---

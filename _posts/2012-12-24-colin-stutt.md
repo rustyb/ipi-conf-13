@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Mr. Colin Stutt
+permalink: /speakers/colin-stutt
+
 categories: 
     - speaker
 thumbnail: /img

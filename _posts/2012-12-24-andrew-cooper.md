@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Prof. Andrew Cooper
+permalink: /speakers/andrew-cooper
+
 categories: 
     - speaker
 thumbnail: /img

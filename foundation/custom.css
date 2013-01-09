@@ -1,3 +1,5 @@
+#SiteWrapper {background:repeat-x center top url('../img/map-bkgnd.png');}
+body {background: repeat center top url('../img/site-bkgnd.png');}
 .speakers {
   list-style:none;
 }
@@ -44,7 +46,7 @@
 .section:before, .section:after { content: ""; display: table; }
 .section:after { clear: both; }
 
-#wrapper {background:#FFF6E5 no-repeat center 30px;padding-top:30px;}
+#wrapper {background: no-repeat center 30px;padding-top:30px;}/*#FFF6E5*/
 .navbar {
 	margin: 15px 0 14px;
 	padding:15px 10px;;
@@ -52,6 +54,27 @@
 	border-radius:6px;
 }
 .navbar a {text-transform:uppercase;font-weight:bold;padding:0 10px;font-size:17px;}
+
+.navbar1 {
+	margin: 15px 0 14px;
+	padding:15px 10px;;
+}
+.navbar1 a {text-transform:capitalize;font-weight:bold;padding:0 10px;font-size:17px;}
+
+#nav-link {background:#0F2823;color:#FFF4C6;}
+#nav-link a {color:#FFF4C6;}
+#nav-link a:hover{color:#FFF;text-decoration:underline}
+
+#nav-link  a.home {
+display: block;
+float: left;
+width: 30px;
+height: 30px;
+background: url('../img/logo.png') no-repeat bottom;
+text-indent: -1000em;
+margin: -5px 40px 0 5px;
+}
+#nav-link  a.home:hover{background-position:top}
 .social {font-size:2em;}
 .social a:hover {color:#FF00BF;}
 
@@ -64,6 +87,7 @@
 #ipi-link {background:#FFF6E5;}
 #ipi-link a {padding:10px;background:#000;color:#FFF;margin-top:5px;border-radius:5px;font-size:17px;}
 #ipi-link a:hover {background:#C60F13;}
+.block {padding:20px;margin-bottom:20px;background:#fff;}
 
 #main_banner {background:no-repeat;}
 div#action{width:570px;padding:408px 0 0 0px;text-align:left;}

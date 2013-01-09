@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Mr. Paul Cooley 
+permalink: /speakers/paul-cooley
 categories: 
     - speaker
 thumbnail: /img

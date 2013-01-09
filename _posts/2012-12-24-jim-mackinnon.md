@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Mr. Jim MacKinnon
+permalink: /speakers/jim-mackinnon
+
 categories: 
     - speaker
 thumbnail: /img
