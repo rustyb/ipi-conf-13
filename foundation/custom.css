@@ -101,3 +101,5 @@ h3.twitter{font-size:1.6em;margin-right:60px; color:#FFF5E1;text-shadow:2px 2px 
 h3.twitter a {color:#B01220;}
 h3.twitter a:hover {color:#2BA6CB;}
 div#footer{margin:0 auto; text-align: center;}
+
+.image-box {padding:10px;background:#000; float:right;}
