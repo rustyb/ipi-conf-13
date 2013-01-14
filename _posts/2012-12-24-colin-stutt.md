@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: new
 title: Mr. Colin Stutt
 permalink: /speakers/colin-stutt
 

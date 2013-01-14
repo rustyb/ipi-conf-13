@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: new
 title: Dr. Geraint Ellis
 permalink: /speakers/geraint-ellis
 categories: 

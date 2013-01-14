@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: new
 title: Prof. Andrew Cooper
 permalink: /speakers/andrew-cooper
 

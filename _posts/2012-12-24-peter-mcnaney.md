@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: new
 title: Peter McNaney
 permalink: /speakers/peter-mcnaney
 categories: 

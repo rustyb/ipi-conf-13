@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: new
 title: Mr. Jim MacKinnon
 permalink: /speakers/jim-mackinnon
 

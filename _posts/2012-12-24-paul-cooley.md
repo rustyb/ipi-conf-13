@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: new
 title: Mr. Paul Cooley 
 permalink: /speakers/paul-cooley
 categories: 

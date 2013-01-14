@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: new
 title: Professor Andreas Faludi
 permalink: /speakers/andreas-faludi
 categories: 
