@@ -4,7 +4,7 @@ title: Professor Andreas Faludi
 permalink: /speakers/andreas-faludi
 categories: 
     - speaker
-thumbnail: /img
+thumbnail: "/img/speakers/s/ned_o_connor.jpg"
 position: Professor of Spatial Policy Systems in Europe, at Delft University of Technology, Netherlands
 bio: 
 ---

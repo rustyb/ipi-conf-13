@@ -5,7 +5,7 @@ permalink: /speakers/colin-stutt
 
 categories: 
     - speaker
-thumbnail: /img
+thumbnail: /img/speakers/s/default.jpg
 position: Colin Stutt Consulting 
 bio: Colin joined the Northern Ireland Civil Service on leaving University and held a variety of posts all relating to economic development policy.
 ---
