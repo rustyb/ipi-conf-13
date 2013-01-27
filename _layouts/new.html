@@ -55,15 +55,32 @@
 			</div>
 
 			<div class="show-for-small">
-				<ul class="nav-bar">
-					<li><a href="http://ipi.ie" >&larr; Back to IPI.ie</a></li>
-					<li><a href="{{base}}/">Home</a></li>
-					<li><a href="{{base}}/pages/programme">Programme</a></li>
-					<li><a href="{{base}}/pages/speakers">Speakers</a></li>
-					<li><a href="{{base}}/pages/venue">Venue</a></li>
-					<li><a href="http://www.irishplanninginstitute.ie/uploads/files/IPI%202012%20Autumn%20conference%20brochure.pdf" class="button radius large alert has-tip" data-width="210" title="Non IPI members must download form and return to IPI Office.">Booking Form</a></li>
-					<li><a href="http://www.irishplanninginstitute.ie/ipi/conference-tickets/" class="button radius large alert has-tip" data-width="210" title="An IPI.ie login is required for online registration">Register Online</a></li>
-				</ul>
+				<div class="row">
+				  <div class="twelve columns">
+				    <nav class="top-bar">
+				      <ul>
+				        <!-- Title Area -->
+				        <li class="name">
+				          <h1>
+				           <a href="{{base}}/" class="home">IPI Planning Conf</a>
+				          </h1>
+				        </li>
+				        <li class="toggle-topbar"><a href="#"></a></li>
+				      </ul>
+
+				      <section>
+				        <!-- Left Nav Section -->
+				        <ul class="left">
+				          <li class="divider"></li>
+							{% assign home_nav = site.posts %}
+							{% assign group = 'navigation' %}
+							{% include mobile_nav %}
+				          <li class="divider hide-for-small"></li>
+				        </ul>
+				      </section>
+				    </nav>
+				  </div>
+				</div>
 			</div>
 		</div>
 	</div>
