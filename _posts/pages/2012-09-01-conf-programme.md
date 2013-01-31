@@ -12,7 +12,7 @@ published: false
 
 *  09:30  Ms. Joanna Kelly, President of Irish Planning Institute Welcome Address & Introduction 
 
-##Morning  New Planning Frameworks through Reform and Change - The Future Role of Planning  
+## Morning  New Planning Frameworks through Reform and Change - The Future Role of Planning  
 
 *Chair: Mr. Peter McNaney Chief Executive Belfast City Council*   
    
@@ -30,9 +30,9 @@ published: false
 
 * 12:20 Mr. Ned O’Connor, Retired County Manager South Tipperary County Council Planning at Local Level – The Role of the Planner and Elected Representatives 
 
-* 12:50               Questions & Answers 
+* 12:50 Questions & Answers 
 
-* 13:15                Lunch Break   
+* 13:15 Lunch Break   
 
 ## Afternoon Diversification and Innovation – Adapting the Role of the Planner 
 
