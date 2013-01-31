@@ -4,7 +4,7 @@ title: Conference Programme
 permalink: /pages/programme
 group: navigation
 published: True
-published: false
+published: True
 ---
 
 ## Day 1: Thursday 25th April
