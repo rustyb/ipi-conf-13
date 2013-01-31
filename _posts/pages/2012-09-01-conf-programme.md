@@ -99,6 +99,6 @@ published: false
 ## Afternoon  
 
 * 2:00   Field Trips
-      Titanic Quarter 
-      City Centre Regeneration Lines
-      Peace Lines – Barriers or Opportunities
+Titanic Quarter
+City Centre Regeneration Lines
+Peace Lines – Barriers or Opportunities
