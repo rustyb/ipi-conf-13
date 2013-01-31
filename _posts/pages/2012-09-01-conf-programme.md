@@ -4,6 +4,7 @@ title: Conference Programme
 permalink: /pages/programme
 group: navigation
 published: True
+published: false
 ---
 
 ## Day 1: Thursday 25th April
@@ -99,6 +100,6 @@ published: True
 ## Afternoon  
 
 * 2:00   Field Trips
-Titanic Quarter
-City Centre Regeneration Lines
-Peace Lines – Barriers or Opportunities
+ *Titanic Quarter
+ *City Centre Regeneration Lines
+ *Peace Lines – Barriers or Opportunities
