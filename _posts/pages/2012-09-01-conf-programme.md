@@ -3,6 +3,7 @@ layout: new
 title: Conference Programme
 permalink: /pages/programme
 group: navigation
+published: false
 ---
 
 ## Day 1: Thursday 25th April
@@ -13,7 +14,7 @@ group: navigation
 
 ##Morning  New Planning Frameworks through Reform and Change - The Future Role of Planning  
 
-### Chair: Mr. Peter McNaney Chief Executive Belfast City Council   
+*Chair: Mr. Peter McNaney Chief Executive Belfast City Council*   
    
 * 10:00 Minister Jan O’Sullivan TD Minister of State, Department of Environment, Community and Local Government with special responsibility for Planning and Housing Local Government Reform – A New Direction for Planners  
 
@@ -21,7 +22,7 @@ group: navigation
 
 * 11:00  Tea / Coffee 
 
-### Chair: Mr. Michael Layde, Assistant Secretary Planning and Housing, Department of Environment, Community and Local Government
+*Chair: Mr. Michael Layde, Assistant Secretary Planning and Housing, Department of Environment, Community and Local Government*
 
 * 11:20 Prof.Andreas Faludi, Professor of Spatial Policy Systems in Europe, at Delft University of Technology Territorial Cohesion  
 
@@ -37,7 +38,7 @@ group: navigation
 
 ### Stream 1 Securing our Energy Supply & Moving Towards a Low Carbon Economy
 
-### Chair: Ms. Amy Hastings, Hon Secretary IPI & Director at ARC
+*Chair: Ms. Amy Hastings, Hon Secretary IPI & Director at ARC*
 
 * 14:15  Mr. Nick O’Neill, Director, Energy, SLR Consulting Ireland Planning for Ireland’s Energy Security – Industrial Development Planning for the Energy Sector North & South
 
@@ -49,11 +50,12 @@ group: navigation
 * 16:00 Dr. Geraint Ellis Senior Lecturer in the School of Planning, Architecture and Civil Engineering. The Impact of Devolution on Renewable Energy – Lessons to be Learnt North & South of the Border             
 
 * 16:30  Questions & Answers 
+
 * 17:00  Close 
 
 ### Stream 2 Managing Environmental Constraints in Harnessing Natural Assets
 
-### Chair:  Mr. John Linden, Treasurer IPI Northern Branch & Principle Planning Officer Department of Environment Northern Ireland
+*Chair:  Mr. John Linden, Treasurer IPI Northern Branch & Principle Planning Officer Department of Environment Northern Ireland*
 
 * 14:15  Dr. Cathal O’Mahony, Coastal & Marine Research Centre, University College Cork Marine Environment – Planning Needs and Solutions   
 
@@ -77,7 +79,7 @@ group: navigation
 
 ## Morning Cities, Regions and Competitiveness – The Role of Planning in Economic Development and Investment 
 
-### Chair: Ms. Mary Crowley, Vice President IPI
+*Chair: Ms. Mary Crowley, Vice President IPI*
 
 * 09:30                Mr. Peter McNaney Chief Executive Belfast City Council  Keynote Address – The Role of the Planner in Improving City Competitiveness through a City Investment Programme      
 
@@ -95,6 +97,7 @@ group: navigation
 * 13:00  Lunch Break   
 
 ## Afternoon  
+
 * 2:00   Field Trips
       Titanic Quarter 
       City Centre Regeneration Lines
