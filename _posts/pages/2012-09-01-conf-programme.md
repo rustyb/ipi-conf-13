@@ -6,6 +6,7 @@ group: navigation
 published: True
 published: True
 published: True
+published: True
 ---
 
 *[Click here to download the full brochure] (http://www.irishplanninginstitute.ie/uploads/files/NPC%20Brochure%202013.pdf)
