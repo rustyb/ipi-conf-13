@@ -1,7 +1,7 @@
 ---
 layout: new
-title: Accomodation
-permalink: /pages/accomodation
+title: Accommodation
+permalink: /pages/accommodation
 published: true
 group: navigation
 ---
