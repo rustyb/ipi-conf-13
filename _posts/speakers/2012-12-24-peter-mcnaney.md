@@ -4,7 +4,7 @@ title: Peter McNaney
 permalink: /speakers/peter-mcnaney
 categories: 
     - speaker
-thumbnail: "/img/speakers/s/nick_o_neil.jpg"
+thumbnail: /img/speakers/s/default.jpg
 position: Chief Executive Belfast City Council
 bio: Peter is the Chief Executive of Belfast City Council since 2002. A solicitor by profession Peter has served on the council of the Law Society and has also chaired the governing body of Belfast Metropolitan College for three years. 
 ---
