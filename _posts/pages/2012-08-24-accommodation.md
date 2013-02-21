@@ -6,7 +6,7 @@ published: true
 group: navigation
 ---
 
-## Accomodation
+## Accommodation
 
 This year the format of the National Planning Conference is slightly different in that we will not be ‘hotel’ based.  The conference proceedings and gala dinner will be held in Belfast City Hall in the heart of the city and delegates will be able to stay in a number of hotel venues just a short walk from the conference venue.
 
