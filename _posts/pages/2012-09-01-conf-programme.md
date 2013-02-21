@@ -7,6 +7,9 @@ published: True
 published: True
 ---
 
+[Click here to download the full brochure] (http://www.irishplanninginstitute.ie/uploads/files/NPC%20Brochure%202013.pdf)
+To book [download the booking form](http://www.irishplanninginstitute.ie/uploads/files/Booking%20form%20NPC%202013.pdf) or [click here](http://planningconf13.ipi.ie/pages/registration/)
+
 ## Day 1: Thursday 25th April
 
 *  08:45  Delegate Registration
