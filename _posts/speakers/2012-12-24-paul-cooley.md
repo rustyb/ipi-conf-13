@@ -4,7 +4,7 @@ title: Mr. Paul Cooley
 permalink: /speakers/paul-cooley
 categories: 
     - speaker
-thumbnail: /img/speakers/s/William_Orbinson.jpg
+thumbnail: /img/speakers/s/default.jpg
 position: General Manager SSE Renewables
 bio: Paul is General Manager Ireland at SSE Renewables where he is responsible for the development and construction of all of SSE’s renewable energy projects across the Republic of Ireland and Northern Ireland. 
 ---
