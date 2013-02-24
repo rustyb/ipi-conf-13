@@ -10,8 +10,6 @@ bio: "Brendan Mc Donagh has worked with IDA Ireland, the Agency responsible for 
 published: true
 ---
 
-# How does it work?
-
 Brendan Mc Donagh has worked with IDA Ireland, the Agency responsible for attracting Foreign Direct Investment (FDI) to Ireland, for the past 22 years. He has been involved in attracting multinationals across a wide variety of sectors, including Life Sciences, ICT, Engineering and Services.  
 
 He has been a member of IDA’s Senior Management Team for the past 12 years and has held a number of senior management positions, including Department Manager of Corporate Planning and Strategy, Medical Technologies and Property Divisions.
