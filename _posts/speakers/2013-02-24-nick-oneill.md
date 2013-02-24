@@ -8,6 +8,7 @@ thumbnail: /img/speakers/s/default.jpg
 position: "Director, SLR Environmental Consulting (Ireland) Ltd"
 bio: "Nick O Neill is a director of SLR Environmental Consulting (Ireland) Ltd with over 30 years experience in oil exploration. He obtained a degree in Geology from Trinity College Dublin in 1977, a Masters in Petroleum Geology from University College Dublin in 1986 and a Diploma in Strategy and Innovation from University College Cork in 2011."
 published: "true"
+published: false
 ---
 
 Nick O’Neill is a director of SLR Environmental Consulting (Ireland) Ltd with over 30 years experience in oil exploration. He obtained a degree in Geology from Trinity College Dublin in 1977, a Masters in Petroleum Geology from University College Dublin in 1986 and a Diploma in Strategy and Innovation from University College Cork in 2011.
