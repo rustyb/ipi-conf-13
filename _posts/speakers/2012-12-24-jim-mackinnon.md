@@ -8,7 +8,7 @@ categories:
 thumbnail: /img/s/default.jpg
 position: Retired Chief Planner with Scottish Government
 bio: Jim Mackinnon joined the former Scottish Office from Motherwell District Council in 1979. He was a member of the UK delegation to the Committee on Spatial Development and was appointed as an expert advisor on the National Spatial Strategy.  
-published: false
+published: true
 ---
 
 ## {{page.title}}
