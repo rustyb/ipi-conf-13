@@ -6,7 +6,8 @@ categories:
     - speaker
 thumbnail: /img/speakers/s/default.jpg
 position: General Manager SSE Renewables
-bio: Paul is General Manager Ireland at SSE Renewables where he is responsible for the development and construction of all of SSE’s renewable energy projects across the Republic of Ireland and Northern Ireland. 
+bio: Paul is General Manager Ireland at SSE Renewables where he is responsible for the development and construction of all of SSE’s renewable energy projects across the Republic of Ireland and Northern Ireland.
+published: true
 ---
 
 ## {{page.title}} 
