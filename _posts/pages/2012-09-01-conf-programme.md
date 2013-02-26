@@ -11,6 +11,7 @@ published: True
 published: True
 ---
 
+<div class="programme">
 *[Click here to download the full brochure and booking form] (http://www.irishplanninginstitute.ie/uploads/files/FINAL_NPC%20Brochure%202013.pdf)
  or [click here to book online](http://planningconf13.ipi.ie/pages/registration/)*
 
@@ -130,3 +131,4 @@ published: True
 * **Option I** *Titanic Quarter - Building the Future from the Past*
 * **Option II** *City Centre Regeneration - Achievements & Opportunities*
 * **Option III** *Peace Lines – Barriers or Opportunities*
+</div>
