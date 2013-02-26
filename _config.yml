@@ -6,6 +6,7 @@ exclude:
 permalink: pretty
 baseurl: http://planningconf13.ipi.ie
 url: http://rustyb.github.com/ipi-conf-13
+markdown: rdiscount
 prose:
   rooturl: "_posts"
   metadata:
