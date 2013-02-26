@@ -3,12 +3,6 @@ layout: new
 title: Conference Programme
 permalink: /pages/programme
 group: navigation
-published: True
-published: True
-published: True
-published: True
-published: True
-published: True
 published: true
 ---
 
