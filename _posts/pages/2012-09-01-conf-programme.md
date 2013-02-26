@@ -8,7 +8,6 @@ published: true
 
 
 <div markdown="1" class="programme">
-
 *[Click here to download the full brochure and booking form] (http://www.irishplanninginstitute.ie/uploads/files/FINAL_NPC%20Brochure%202013.pdf)
  or [click here to book online](http://planningconf13.ipi.ie/pages/registration/)*
 
