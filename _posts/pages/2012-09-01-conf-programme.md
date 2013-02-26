@@ -12,7 +12,6 @@ published: true
  or [click here to book online](http://planningconf13.ipi.ie/pages/registration/)*
 
 ## Day 1: Thursday 25th April
-
 </div>
 
 *  08:45	Delegate Registration
