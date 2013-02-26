@@ -13,7 +13,7 @@ published: true
  or [click here to book online](http://planningconf13.ipi.ie/pages/registration/)*
 
 ## Day 1: Thursday 25th April
-
+ </div>
 *  08:45	Delegate Registration
 
 *  09:30	Ms. Joanna Kelly, President of Irish Planning Institute **Welcome Address & Introduction**
@@ -129,4 +129,3 @@ published: true
 * **Option II** *City Centre Regeneration - Achievements & Opportunities*
 * **Option III** *Peace Lines – Barriers or Opportunities*
 
- </div>
