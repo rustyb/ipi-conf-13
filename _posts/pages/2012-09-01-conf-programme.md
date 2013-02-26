@@ -7,13 +7,15 @@ published: true
 ---
 
 
-<div class="programme">
+<div markdown="1" class="programme">
 
 *[Click here to download the full brochure and booking form] (http://www.irishplanninginstitute.ie/uploads/files/FINAL_NPC%20Brochure%202013.pdf)
  or [click here to book online](http://planningconf13.ipi.ie/pages/registration/)*
 
 ## Day 1: Thursday 25th April
- </div>
+
+</div>
+
 *  08:45	Delegate Registration
 
 *  09:30	Ms. Joanna Kelly, President of Irish Planning Institute **Welcome Address & Introduction**
