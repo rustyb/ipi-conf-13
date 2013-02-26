@@ -1,6 +1,8 @@
 #SiteWrapper {background:repeat-x center top url('../img/map-bkgnd.png');}
 body {background: repeat center top url('../img/site-bkgnd.png');}
 
+#programme ul {list-style-type:none;}
+
 .speakers {
   list-style:none;
 }
